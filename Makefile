@@ -16,6 +16,8 @@
 # VENDOR
 # Possible values for CARD: NVIDIA, AMD
 
+GPU_INCLUDE_PATH = /usr/local/cuda/include
+GPU_LIBRARY_PATH = /usr/local/cuda/lib64
 
 #ifeq ($(DEVICE), $(filter $(DEVICE),GPU CUDA))
 ifeq ($(API), CUDA)
