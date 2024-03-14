@@ -1,4 +1,6 @@
 # Build artifacts
+/host/inc/performdocking.h
+/host/src/performdocking.cpp
 bin/
 kernels.o
 
