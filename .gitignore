@@ -1,0 +1,8 @@
+# Build artifacts
+bin/
+kernels.o
+
+# Outputs
+docking.dlg
+docking.xml
+initpop.txt
